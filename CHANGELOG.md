@@ -1,3 +1,15 @@
+# v0.1.1 (Thu Jan 20 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Update README.md ([@eardrum-unclasp](https://github.com/eardrum-unclasp))
+
+#### Authors: 1
+
+- [@eardrum-unclasp](https://github.com/eardrum-unclasp)
+
+---
+
 # v0.1.0 (Wed Nov 25 2020)
 
 #### 🚀 Enhancement
